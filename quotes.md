@@ -5,3 +5,4 @@
 * hoth keth nei = hush nei
 * vyador = vodor + tyador
 * buro matari = buro vam
+* bishu potol lela lotol
